@@ -1,5 +1,6 @@
 package com.nugget.rewards;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -48,32 +49,23 @@ public class MainActivity extends AppCompatActivity {
 
     //ONCLICK LISTENERS GOING TO PAGES ON TOOLBAR POPUP
     public boolean settings(MenuItem item) {
-        //TEMPORARY TOAST - REPLACE ONCE ACTIVITY CREATED
-        Toast toast = Toast.makeText(getApplicationContext(), "SettingsActivity", Toast.LENGTH_SHORT);
-        toast.setMargin(50,50);
-        toast.show();
-
-        //startActivity(new Intent(MainActivity.this, SettingsActivity.class));
+        startActivity(new Intent(MainActivity.this, SettingsActivity.class));
         return true;
     }
 
     public boolean help(MenuItem item) {
-        //TEMPORARY TOAST - REPLACE ONCE ACTIVITY CREATED
-        Toast toast = Toast.makeText(getApplicationContext(), "HelpcenterActivity", Toast.LENGTH_SHORT);
+        //startActivity(new Intent(MainActivity.this, HelpcenterActivity.class));
+        Toast toast = Toast.makeText(getApplicationContext(), "Coming Soon in the next update", Toast.LENGTH_SHORT);
         toast.setMargin(50,50);
         toast.show();
-
-        //startActivity(new Intent(MainActivity.this, HelpcenterActivity.class));
         return true;
     }
 
     public boolean feedback(MenuItem item) {
-        //TEMPORARY TOAST - REPLACE ONCE ACTIVITY CREATED
-        Toast toast = Toast.makeText(getApplicationContext(), "FeedbackActivity", Toast.LENGTH_SHORT);
+        //startActivity(new Intent(MainActivity.this, FeedbackActivity.class));
+        Toast toast = Toast.makeText(getApplicationContext(), "Coming Soon in the next update", Toast.LENGTH_SHORT);
         toast.setMargin(50,50);
         toast.show();
-
-        //startActivity(new Intent(MainActivity.this, FeedbackActivity.class));
         return true;
     }
 }
