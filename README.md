@@ -15,7 +15,7 @@ Welcome to the source code and official page for the HiRewards Android app by Th
 You can see what's new by looking at the <a href="https://github.com/aarjay123/hirewards/releases/latest">latest release</a> tab.
 
 <h2>Other Source Code</h2>
-- The source code for HiOSWebCore is here: <a href="https://github.com/thehighlandcafe/hiosmobile">HiOSWebCore Source Code</a>.<br><br>
+- The source code for HiOSWebCore is here: <a href="https://github.com/thehighlandcafe/hioswebcore">HiOSWebCore Source Code</a>.<br><br>
 - The source code for HiOSMobileWeb is here: <a href="https://github.com/thehighlandcafe/hiosmobileweb">HiOSMobileWeb Source Code</a>.
 
 <h2>Our Websites</h2>
