@@ -18,12 +18,6 @@
                 android:title="@string/title_help"
                 android:icon="@drawable/ic_help"
                 android:onClick="help" />
-
-            <item
-                android:id="@+id/topmenuFeedback"
-                android:title="@string/title_feedback"
-                android:icon="@drawable/ic_feedback"
-                android:onClick="feedback" />
         </menu>
     </item>
 </menu>

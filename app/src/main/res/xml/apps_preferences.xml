@@ -18,14 +18,4 @@
             android:data="@string/hiosweather_url" >
         </intent>
     </Preference>
-
-    <Preference
-        android:title="@string/hiossocial_title"
-        android:summary="@string/hiossocial_summary"
-        app:icon="@drawable/ic_hiossocial">
-        <intent
-            android:action="android.intent.action.VIEW"
-            android:data="@string/hiossocial_url" >
-        </intent>
-    </Preference>
 </PreferenceScreen>

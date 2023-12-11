@@ -1,51 +1,21 @@
-<!--PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
-
-    <Preference
-        app:fragment="com.nugget.rewards.ui.helpcenter.BarcodeFragment"
-        app:icon="@drawable/ic_restauranticon"
-        app:key="restaurant_header"
-        app:title="@string/title_dashboard" />
-
-    <Preference
-        app:fragment="com.nugget.rewards.ui.helpcenter.HotelFragment"
-        app:icon="@drawable/ic_worsteasternicon"
-        app:key="hotel_header"
-        app:title="@string/title_notifications" />
-
-    <Preference
-        app:fragment="com.nugget.rewards.ui.helpcenter.RoomkeyFragment"
-        app:icon="@drawable/ic_roomkeyicon"
-        app:key="key_header"
-        app:title="@string/title_roomkey" />
-
-    <Preference
-        app:fragment="com.nugget.rewards.ui.helpcenter.SecureloginFragment"
-        app:icon="@drawable/ic_secureloginicon"
-        app:key="securelogin_header"
-        app:title="@string/securelogin_header" />
-
-    <Preference
-        app:fragment="com.nugget.rewards.ui.helpcenter.MoreFragment"
-        app:icon="@drawable/ic_moreicon"
-        app:key="more_header"
-        app:title="@string/title_more" />
-
-    <Preference
-        app:fragment="com.nugget.rewards.ui.helpcenter.InternetFragment"
-        app:icon="@drawable/ic_interneticon"
-        app:key="internet_header"
-        app:title="@string/internet_header" />
-
-    <Preference
-        app:fragment="com.nugget.rewards.ui.helpcenter.UpdatesFragment"
-        app:icon="@drawable/ic_update"
-        app:key="updates_header"
-        app:title="@string/updates_header" />
-
-</PreferenceScreen-->
-
 <PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
     <Preference
-        app:title="Help center coming soon"
-        app:summary="Articles will be added in the next update, so stay tuned :)" />
+        app:fragment="com.nugget.rewards.ui.helpcenter.CollectFragment"
+        app:icon="@drawable/ic_collect"
+        app:key="collect_header"
+        app:title="@string/collect_title" />
+
+    <Preference
+        app:fragment="com.nugget.rewards.ui.helpcenter.RedeemFragment"
+        app:icon="@drawable/ic_offersicon"
+        app:key="hotel_header"
+        app:title="@string/redeem_title" />
+
+    <Preference
+        app:fragment="com.nugget.rewards.ui.helpcenter.SignupFragment"
+        app:icon="@drawable/ic_accounticon"
+        app:key="key_header"
+        app:title="@string/signup_title" />
+
 </PreferenceScreen>

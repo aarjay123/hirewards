@@ -38,7 +38,7 @@ public class HomeFragment extends Fragment {
         webView.setScrollBarStyle(WebView.SCROLLBARS_OUTSIDE_OVERLAY);
         webView.setScrollbarFadingEnabled(false);
 
-        webView.loadUrl("https://thehighlandcafe.github.io/hiosmobile/rewards/home.html");
+        webView.loadUrl("https://thehighlandcafe.github.io/hioswebcore/rewards/home.html");
 
         return root;
     }

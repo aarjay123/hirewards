@@ -37,7 +37,7 @@ public class NotificationsFragment extends Fragment {
         webView.setScrollBarStyle(WebView.SCROLLBARS_OUTSIDE_OVERLAY);
         webView.setScrollbarFadingEnabled(false);
 
-        webView.loadUrl("https://thehighlandcafe.github.io/hiosmobile/rewards/account.html");
+        webView.loadUrl("https://thehighlandcafe.github.io/hioswebcore/rewards/account.html");
 
         return root;
     }

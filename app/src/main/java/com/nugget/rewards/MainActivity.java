@@ -54,18 +54,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public boolean help(MenuItem item) {
-        //startActivity(new Intent(MainActivity.this, HelpcenterActivity.class));
-        Toast toast = Toast.makeText(getApplicationContext(), "Coming Soon in the next update", Toast.LENGTH_SHORT);
-        toast.setMargin(50,50);
-        toast.show();
-        return true;
-    }
-
-    public boolean feedback(MenuItem item) {
-        //startActivity(new Intent(MainActivity.this, FeedbackActivity.class));
-        Toast toast = Toast.makeText(getApplicationContext(), "Coming Soon in the next update", Toast.LENGTH_SHORT);
-        toast.setMargin(50,50);
-        toast.show();
+        startActivity(new Intent(MainActivity.this, HelpcenterActivity.class));
         return true;
     }
 }

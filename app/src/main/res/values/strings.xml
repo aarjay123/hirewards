@@ -40,7 +40,7 @@
 
         <!--Updates-->
     <string name="updates_title">Check for Updates</string>
-    <string name="updates_summary">This Version: 1.0</string>
+    <string name="updates_summary">This Version: 1.1</string>
 
     <string name="notifications_title">Update Notifications</string>
     <string name="notifications_summary">Join our WhatsApp Channel to get notified every time we update HiRewards.</string>
@@ -52,6 +52,11 @@
     <string name="hirewards_website_title">HiRewards™ Website</string>
     <string name="hios_title">HiOS™ Website</string>
     <string name="thehighlandcafe_title">The Highland Cafe™ Website</string>
+
+    <!--Help Center-->
+    <string name="collect_title">Collecting Points</string>
+    <string name="redeem_title">Redeeming Points</string>
+    <string name="signup_title">Signing-Up</string>
 
     <!--URLs-->
     <string name="updates_url">https://sites.google.com/view/hirewards/download</string>

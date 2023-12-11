@@ -38,7 +38,7 @@ public class DashboardFragment extends Fragment {
         webView.setScrollBarStyle(WebView.SCROLLBARS_OUTSIDE_OVERLAY);
         webView.setScrollbarFadingEnabled(false);
 
-        webView.loadUrl("https://thehighlandcafe.github.io/hiosmobile/rewards/offers.html");
+        webView.loadUrl("https://thehighlandcafe.github.io/hioswebcore/rewards/offers.html");
 
         return root;
     }

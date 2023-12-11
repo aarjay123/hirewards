@@ -1,4 +1,4 @@
-package com.nugget.rewards.ui.preferences;
+package com.nugget.rewards.ui.helpcenter;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -13,7 +13,7 @@ import androidx.fragment.app.Fragment;
 import com.nugget.rewards.R;
 import com.nugget.rewards.databinding.FragmentHomeBinding;
 
-public class AboutFragment extends Fragment {
+public class CollectFragment extends Fragment {
 
     private FragmentHomeBinding binding;
 
@@ -53,7 +53,7 @@ public class AboutFragment extends Fragment {
             }
         });
 
-        webView.loadUrl("https://thehighlandcafe.github.io/hioswebcore/helpcenter/more/about-rewards.html");
+        webView.loadUrl("https://thehighlandcafe.github.io/hioswebcore/helpcenter/rewards/collect.html");
 
         return root;
     }
