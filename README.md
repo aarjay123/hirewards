@@ -1,5 +1,7 @@
 # HiRewards for Android
 
+# This project has been archived, as a newer, more modern replacement is coming. Until then, you can still keep using HiRewards v1.2.
+
 <h2>Hi there!</h2>
 Welcome to the source code and official page for the HiRewards Android app by The Highland Cafe™ Enterprises!<br>
 <h2>How to Install HiRewards</h2>
