@@ -1,7 +1,5 @@
 # HiRewards for Android
 
-# This project has been archived, as a newer, more modern replacement is coming. Until then, you can still keep using HiRewards v1.2.
-
 <h2>Hi there!</h2>
 Welcome to the source code and official page for the HiRewards Android app by The Highland Cafe™ Enterprises!<br>
 <h2>How to Install HiRewards</h2>
@@ -22,7 +20,7 @@ You can see what's new by looking at the <a href="https://github.com/aarjay123/h
 
 <h2>Our Websites</h2>
 - HiRewards website: <a href="https://sites.google.com/view/hirewards">https://sites.google.com/view/hirewards</a><br><br>
-- HiOS Apps website: <a href="https://sites.google.com/view/hios-by-thc">https://sites.google.com/view/hios-by-thc</a><br><br>
-- Our parent company, The Highland Cafe™' Enterprises website: <a href="https://sites.google.com/view/thehighlandcafe">https://sites.google.com/view/thehighlandcafe</a>
+- HiOS Apps website: <a href="https://sites.google.com/view/hios-by-thc">https://hienterprises.github.io/hiosmobile/home</a><br><br>
+- Our parent company, The Highland Cafe™' Enterprises website: <a href="https://hienterprises.github.io">https://hienterprises.github.io</a>
 
 <h1>...and thanks for using the HiRewards app :)</h1>
