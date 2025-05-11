@@ -32,6 +32,9 @@
     <string name="hiossocial_title">HiOSSocial</string>
     <string name="hiossocial_summary">Our brand new social media app, this app allows you to chat with friends, and more!</string>
 
+    <string name="hiosmusic_title">HiOSMusic</string>
+    <string name="hiosmusic_summary">This is our music app. Your Music, Your Vibe.</string>
+
         <!--Socials-->
     <string name="facebook_title">The Highland Cafe™ Enterprises Facebook Page</string>
     <string name="threads_title">The Highland Cafe™ Enterprises Threads Profile</string>
@@ -40,7 +43,7 @@
 
         <!--Updates-->
     <string name="updates_title">Check for Updates</string>
-    <string name="updates_summary">This Version: 1.1</string>
+    <string name="updates_summary">This Version: 1.3</string>
 
     <string name="notifications_title">Update Notifications</string>
     <string name="notifications_summary">Join our WhatsApp Channel to get notified every time we update HiRewards.</string>
@@ -59,10 +62,10 @@
     <string name="signup_title">Signing-Up</string>
 
     <!--URLs-->
-    <string name="updates_url">https://sites.google.com/view/hirewards/download</string>
+    <string name="updates_url">https://github.com/aarjay123/hirewards/releases/latest</string>
     <string name="whatsnew_url">https://github.com/aarjay123/hirewards/releases/latest</string>
     <string name="notifications_url">https://whatsapp.com/channel/0029Va8U5lXISTkDAhk4bj3J</string>
-    <string name="hiosmusic_url">https://sites.google.com/view/hios-by-thc/download-hiosmusic#h.ogr0r3hzljpf</string>
+    <string name="hiosmusic_url">https://github.com/aarjay123/hiosmusic/releases/latest</string>
     <string name="hiosweather_url">https://sites.google.com/view/hios-by-thc/hiosweather#h.rynyo42t0yud</string>
     <string name="hienterprises_url">https://sites.google.com/view/thehighlandcafe</string>
     <string name="hirewards_url">https://sites.google.com/view/hirewards</string>
@@ -70,10 +73,10 @@
     <string name="facebook_url">https://www.facebook.com/profile.php?id=100095224335357</string>
     <string name="instagram_url">https://www.instagram.com/thehighlandcafe/</string>
     <string name="threads_url">https://www.threads.net/@thehighlandcafe</string>
-    <string name="thehighlandcafe_url">https://sites.google.com/view/thcrestaurants</string>
-    <string name="hios_url">https://sites.google.com/view/hios-by-thc</string>
+    <string name="thehighlandcafe_url">https://hienterprises.github.io/hicafe/home</string>
+    <string name="hios_url">https://hienterprises.github.io/hiosmobile/home</string>
     <string name="hiossocial_url">https://sites.google.com/view/hios-by-thc/hisocial</string>
-    <string name="privacypolicy_url">https://sites.google.com/view/hios-by-thc/privacy-policy</string>
-    <string name="github_release_url">https://github.com/aarjay123/harmony/releases/latest</string>
+    <string name="privacypolicy_url">https://thehighlandcafe.github.io/hiosmobileweb/activities/settings_activities/privacypolicy_activity.html</string>
+    <string name="github_release_url">https://github.com/aarjay123/hirewards/releases/latest</string>
 
 </resources>
