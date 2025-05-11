@@ -17,6 +17,7 @@ import androidx.fragment.app.FragmentManager;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceFragmentCompat;
 
+import com.google.android.material.appbar.MaterialToolbar;
 import com.nugget.rewards.R;
 
 public class HelpcenterActivity extends AppCompatActivity implements
@@ -45,6 +46,10 @@ public class HelpcenterActivity extends AppCompatActivity implements
                         }
                     }
                 });
+
+        MaterialToolbar toolbar = findViewById(R.id.settings_toolbar);
+        setSupportActionBar(toolbar);
+
         ActionBar actionBar = getSupportActionBar();
         if (actionBar != null) {
             actionBar.setDisplayHomeAsUpEnabled(true);
